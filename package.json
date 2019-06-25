@@ -1,0 +1,8 @@
+{
+  "name": "bootcamp-gobarber-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/victorreinor/bootcamp-gobarber-api",
+  "author": "Victor Reinor <victorreinor@gmail.com>",
+  "license": "MIT"
+}
